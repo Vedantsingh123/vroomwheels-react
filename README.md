@@ -28,9 +28,5 @@ Car Marketplace features a user-friendly interface and secure payment processing
 
 
 
-## 🔗 LinkedIn Profile
-
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vedant-singh-165b94299)
 
 
